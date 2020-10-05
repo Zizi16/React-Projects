@@ -1,8 +1,8 @@
 /****************************************************************
- * A simple app to change background colour using react Hook *
+ * A simple app to change background colour using react Hooks*
  ****************************************************************/
 
-//We import the useState Hook from React. It lets us keep local state in a function component.
+//We import the useState from React. It lets us keep local state in a function component.
 import React, { useState } from "react";
 import "./styles.css";
 
